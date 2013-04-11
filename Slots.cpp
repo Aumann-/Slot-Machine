@@ -1,10 +1,7 @@
 /*Bingo-based slot machine. Bingo card is generated at the beginning of play with a random number of 'a' and 'b'.
 	Entire card must be filled with 'b' to win. Each "Spin" will set one random spot on the card to 'b', if that spot is already 'b' its a wasted spin.
 	Card is not reset until a win happens.
-	
-TO DO: 	Build slots around bingo card functions.
-		Add Single spin setup.
-		Add betting function.
+
 */
 
 #include <iostream>
